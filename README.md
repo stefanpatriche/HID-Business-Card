@@ -1,4 +1,4 @@
-# HID - Visit Card/Business Card
+# HID - Business Card
 
 Priectul a avut ca scop realizarea unui periferic de tip HID care va completa in mod automat datele de contact ale detinatorului. 
 Astfel cand perifericul este conectat la un sistem prin apasarea butonului se va trimite pe USB textul ca si cum ar fi tastat.
