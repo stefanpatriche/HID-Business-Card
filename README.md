@@ -21,4 +21,3 @@ In figura de mai jos este reprezentata schema de conectare a butonului si conexi
   - Liniile de VCC si GND se conecteaza la 5V si GND pe placuta Arduino
 ![Schema de conectare](./Schema.jpg)
 
-Pentru a descarca biblioteca "UsbKeyboard.h" se acceseaza urmatorul link: https://code.google.com/archive/p/vusb-for-arduino/downloads
